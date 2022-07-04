@@ -21,6 +21,19 @@ public class PersonHandler {
                 // append `stringRepresentation` to `result` variable
 
             // end loop
+        String s = new StringBuilder();
+        int counter = 0;
+
+        while (counter < personArray.length) {
+            int i = counter + 1;
+
+            i++; }
+
+        getPersonArray().toString();
+
+        String s = (new StringBuilder().append(int i));
+
+
         return result;
     }
 
